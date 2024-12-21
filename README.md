@@ -60,5 +60,5 @@ RegisterNumber: 24013515 */
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
-](https://github.com/PRAVEENRAJ359/study-of-basic-gates/blob/main/README.md)](https://github.com/PRAVEENRAJ359/study-of-basic-gates/blob/main/README.md)
+](https://github.com/Shagilan/BOOLEAN_FUNCTION_MINIMIZATION/edit/main/README.md)
 
